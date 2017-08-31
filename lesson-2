@@ -1,0 +1,32 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Se tiene que vincular co tu cuenta de github para poder realizar modificaciones.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	
+	Ofrece una estabilidad ya que si de tu directorio de trabajo realizar modificaciones se pasan al area de trabajo y si no son las soluciones o encuntras una diferente y optimizada puedes quitar la anterior sin añadirla al repositorio. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	Modificando un archivo y hacinedo commit a el solo para que solo se vea reflejado en el mismo archivo y no en los demas.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+	
+	Cuando necesitas hacer pruebas por ti mismo sobre un proyecto y va por diferente camino la idea principal es mejor realizar una rama para lo que estas realizando y no malformar la rama principal.
+
+How do the diagrams help you visualize the branch structure?
+	
+	Por que es mas facil ver los cambios realizados en los commit que tiene cada una de las ramas y asi poder decidir cuales incorporar o mezclar.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	El resultado de mezclar 2 ramas considera los archivos originales de la rama maestro y los que tengan los mismos archivos.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+	Al hacer mezclar automaticas se mejora las ideas de la rama principal asi el proyecto va hacia el mismo objetivo en cambio si se realiza de forma manual mejora a la manera en la que tu concibes el proyecto y hacia donde lo enfocas. 
