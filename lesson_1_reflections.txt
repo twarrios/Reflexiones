@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    con el comando diff -u ARCHIVO1 ARCHIVO2
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    git log
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   es facil de realizar y el comentario del commit es ideal para saber que cambios surgieron, lo que por otro lado no se sabria como lo es el caso del autoguardado.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    es una manera estructurada de tener las modificaciones.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    con git log se ven todos los commit empezando por el mas reciente y con git diff se puede comparar los commit para ver los cambios.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    por la manera de realizar los comentarios en los commit ayuda a buscar soluciones rapidas.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    para mi escuela
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Gracias a que cada uno de los archivos se encuentran respaldados y con comentarios en cada una de las versiones del proyecto para poder corregir errores.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Con git puedes decir el comentario que es la caracteristica principal del commit en cambio en google docs se realiza automaticamente sin añadir una descripcion. 
+
