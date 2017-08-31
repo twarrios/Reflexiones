@@ -1,0 +1,29 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+   CUando se necesita una estabilidad en el proyecto para el codigo que aporten los demas y no solo el tuyo.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Porque es una manera que tu lleves el control de cuando realizar los cambios basados en los comentarios de las modificaciones a los recursos.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    La clonacion clona el archivo y lo deja tal como esta es el inicio por haci decir para comnezar a trabajar en un proyecto con control de versiones, las ramas son cuando el proyecto segun tu concepto necesita un giro o algun plus que ayude pero no se realiza en la rama principal si no en una que tu realizes para no afectar los recursos existentes.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    De que se tiene la seguridad de un repaldo.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Seria en una manera muy diferente ya que seria trabajar con varios archivos o si algun manejdor de archivos llevara el control la maoria no se agregan comentarios en modificaiones si no que lo realizan de forma automatica.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Que si los cambios realizados no se encuentran en la rama master y ofrecen un plus ya sean colores,etc se pueden mezclar para obtener tosos los beneficios realozados en la rama master. 
